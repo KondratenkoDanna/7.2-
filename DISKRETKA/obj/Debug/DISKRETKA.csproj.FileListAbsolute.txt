@@ -1,0 +1,7 @@
+C:\Users\danna\source\repos\DISKRETKA\bin\Debug\DISKRETKA.exe.config
+C:\Users\danna\source\repos\DISKRETKA\bin\Debug\DISKRETKA.exe
+C:\Users\danna\source\repos\DISKRETKA\bin\Debug\DISKRETKA.pdb
+C:\Users\danna\source\repos\DISKRETKA\obj\Debug\DISKRETKA.csprojAssemblyReference.cache
+C:\Users\danna\source\repos\DISKRETKA\obj\Debug\DISKRETKA.csproj.CoreCompileInputs.cache
+C:\Users\danna\source\repos\DISKRETKA\obj\Debug\DISKRETKA.exe
+C:\Users\danna\source\repos\DISKRETKA\obj\Debug\DISKRETKA.pdb
